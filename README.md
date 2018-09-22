@@ -1,4 +1,4 @@
-# testing-goat {: aria-label='Testing Goat' }
+# testing-goat{: aria-label='Testing Goat' }
 
 [Public repo with my work](https://github.com/mUtterberg/testing-goat/){: arial-label='GitHub' } on
 [Harry Percival's Test-Driven Development with Python](http://shop.oreilly.com/product/0636920051091.do){: aria-label='Harry Percival TDD with Python book' }
