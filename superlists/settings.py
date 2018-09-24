@@ -25,7 +25,7 @@ SECRET_KEY = 'n#emad+b6oj6sp+erj$$n6+s70$2=4)dd27-s%xa2*cv+tz_7s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.crookedby.design']
+ALLOWED_HOSTS = ['127.0.0.1','.crookedby.design']
 
 
 # Application definition
