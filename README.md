@@ -4,7 +4,9 @@
 [Harry Percival's Test-Driven Development with Python](http://shop.oreilly.com/product/0636920051091.do){: aria-label='Harry Percival TDD with Python book' }
 lesson on Test-Driven (Django + Selenium + JavaScript) Development.
 
-*[See the working web app here when link is active]()*
+*[User lists currently save to enummerated urls.](http://www.crookedby.design/lists/38/)*
+
+Make a new list from [the landing page](http://www.crookedby.design)
 
 Resources:
 
